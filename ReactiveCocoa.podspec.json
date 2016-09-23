@@ -18,7 +18,8 @@
     "watchos": "2.0"
   },
   "source": {
-    "git": "https://github.com/ReactiveCocoa/ReactiveCocoa.git"
+    "git": "https://github.com/ReactiveCocoa/ReactiveCocoa.git",
+    "tag": "v4.2.2"
   },
   "dependencies": {
     "Result": [
